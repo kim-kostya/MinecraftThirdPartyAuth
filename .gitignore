@@ -1,7 +1,9 @@
 # AuthServer dir
-./AuthServer/.gradle/
-./AuthServer/build/
+AuthServer/.gradle/
+AuthServer/build/
 
 # MinecraftAuthMod dir
-./MinecraftAuthMod/.gradle/
-./MinecraftAuthMod/build/
+MinecraftAuthMod/.gradle/
+MinecraftAuthMod/build/
+
+.idea
